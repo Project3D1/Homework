@@ -3,12 +3,55 @@
   <component name="AutoImportSettings">
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
+  <component name="BranchesTreeState">
+    <expand>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+    </expand>
+    <select />
+  </component>
   <component name="ChangeListManager">
-    <list default="true" id="8bd64ccb-96c5-4a6a-bb3f-9e1e26e2e95f" name="Default Changelist" comment="" />
+    <list default="true" id="8bd64ccb-96c5-4a6a-bb3f-9e1e26e2e95f" name="Default Changelist" comment="Add VSC config">
+      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/Homework2/exercise5.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/Homework6/Animal.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/Homework6/Cat.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/Homework6/Dog.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/Homework6/exercise6.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/Lesson2/Arrays.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/Lesson2/Loops.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/Lesson3/lesson3.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/Lesson4/TicTacToe.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/Lesson5/Cat.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/Lesson5/Test.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/Lesson5/User.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/Homework1/exercise6.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/Homework1/exercise6.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/Homework2/exersice4.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/Homework2/exercise4.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/Homework3/exercise1.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/Homework3/exercise1.java" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <branch-grouping />
+    <option name="RECENT_BRANCH_BY_REPOSITORY">
+      <map>
+        <entry key="$PROJECT_DIR$" value="Homework5" />
+      </map>
+    </option>
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="MavenImportPreferences">
     <option name="generalSettings">
@@ -18,40 +61,93 @@
     </option>
   </component>
   <component name="ProjectId" id="1gNhYQHdSCjkV1mqhFWXGVnb4A9" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
   <component name="PropertiesComponent">
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
+    <property name="project.structure.last.edited" value="Project" />
+    <property name="project.structure.proportion" value="0.0" />
+    <property name="project.structure.side.proportion" value="0.0" />
   </component>
-  <component name="RunManager" selected="Application.exercise8">
-    <configuration name="exercise1" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="exercise1" />
+  <component name="RunManager" selected="Application.exercise6">
+    <configuration name="List" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Homework5.List" />
       <module name="Homework" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Homework5.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="exercise2" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="exercise2" />
+    <configuration name="Test (1)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="lesson5.Test" />
       <module name="Homework" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="lesson5.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="exercise8" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="exercise8" />
+    <configuration name="Test" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Lesson5.Test" />
       <module name="Homework" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Lesson5.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="exercise6" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Homework6.exercise6" />
+      <module name="Homework" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Homework6.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="tictactoe" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Homework4.tictactoe" />
+      <module name="Homework" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Homework4.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.exercise8" />
-        <item itemvalue="Application.exercise2" />
-        <item itemvalue="Application.exercise1" />
+        <item itemvalue="Application.exercise6" />
+        <item itemvalue="Application.List" />
+        <item itemvalue="Application.Test (1)" />
+        <item itemvalue="Application.Test" />
+        <item itemvalue="Application.tictactoe" />
       </list>
     </recent_temporary>
   </component>
@@ -64,6 +160,159 @@
       <option name="presentableId" value="Default" />
       <updated>1597961005122</updated>
     </task>
+    <task id="LOCAL-00001" summary="Add VSC and gitignore">
+      <created>1597962232333</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1597962232333</updated>
+    </task>
+    <task id="LOCAL-00002" summary="Add VSC config">
+      <created>1597962636257</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1597962636257</updated>
+    </task>
+    <task id="LOCAL-00003" summary="homework1">
+      <created>1597963031893</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1597963031893</updated>
+    </task>
+    <task id="LOCAL-00004" summary="Homework 2">
+      <created>1598126740487</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1598126740487</updated>
+    </task>
+    <task id="LOCAL-00005" summary="Homework 3">
+      <created>1598458036753</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1598458036753</updated>
+    </task>
+    <task id="LOCAL-00006" summary="Add homework4">
+      <created>1598858379825</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1598858379825</updated>
+    </task>
+    <task id="LOCAL-00007" summary="Homework5">
+      <created>1599113059434</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1599113059434</updated>
+    </task>
+    <option name="localTasksCounter" value="8" />
     <servers />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State>
+              <option name="CUSTOM_BOOLEAN_PROPERTIES">
+                <map>
+                  <entry key="Show.Git.Branches" value="true" />
+                </map>
+              </option>
+            </State>
+          </value>
+        </entry>
+      </map>
+    </option>
+    <option name="oldMeFiltersMigrated" value="true" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <option name="LOCAL_CHANGES_DETAILS_PREVIEW_SHOWN" value="false" />
+    <MESSAGE value="Add VSC and gitignore" />
+    <MESSAGE value="Add VSC config" />
+    <MESSAGE value="homework1" />
+    <MESSAGE value="Homework 2" />
+    <MESSAGE value="Homework 3" />
+    <MESSAGE value="Add homework4" />
+    <MESSAGE value="Homework5" />
+    <option name="LAST_COMMIT_MESSAGE" value="Homework5" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="586" y="198" key="#Inspections" timestamp="1598534003006">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="586" y="198" key="#Inspections/0.0.1920.1040@0.0.1920.1040" timestamp="1598534003006" />
+    <state x="1216" y="325" key="#com.intellij.fileTypes.FileTypeChooser" timestamp="1597962509779">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="1216" y="325" key="#com.intellij.fileTypes.FileTypeChooser/0.0.1920.1040@0.0.1920.1040" timestamp="1597962509779" />
+    <state x="1245" y="239" key="#com.intellij.ide.util.MemberChooser" timestamp="1599464364443">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="1245" y="239" key="#com.intellij.ide.util.MemberChooser/0.0.1920.1040@0.0.1920.1040" timestamp="1599464364443" />
+    <state x="743" y="388" width="433" height="269" key="#com.intellij.refactoring.move.moveClassesOrPackages.MoveClassesOrPackagesDialog.classes" timestamp="1599464221466">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="743" y="388" width="433" height="269" key="#com.intellij.refactoring.move.moveClassesOrPackages.MoveClassesOrPackagesDialog.classes/0.0.1920.1040@0.0.1920.1040" timestamp="1599464221466" />
+    <state x="587" y="88" key="CommitChangelistDialog2" timestamp="1599113057600">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="587" y="88" key="CommitChangelistDialog2/0.0.1920.1040@0.0.1920.1040" timestamp="1599113057600" />
+    <state width="1132" height="317" key="GridCell.Tab.0.bottom" timestamp="1598972502102">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1132" height="317" key="GridCell.Tab.0.bottom/0.0.1920.1040@0.0.1920.1040" timestamp="1598972502102" />
+    <state width="1132" height="317" key="GridCell.Tab.0.center" timestamp="1598972502102">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1132" height="317" key="GridCell.Tab.0.center/0.0.1920.1040@0.0.1920.1040" timestamp="1598972502102" />
+    <state width="1132" height="317" key="GridCell.Tab.0.left" timestamp="1598972502102">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1132" height="317" key="GridCell.Tab.0.left/0.0.1920.1040@0.0.1920.1040" timestamp="1598972502102" />
+    <state width="1132" height="317" key="GridCell.Tab.0.right" timestamp="1598972502102">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1132" height="317" key="GridCell.Tab.0.right/0.0.1920.1040@0.0.1920.1040" timestamp="1598972502102" />
+    <state width="1877" height="347" key="GridCell.Tab.1.bottom" timestamp="1598363070680">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1877" height="347" key="GridCell.Tab.1.bottom/0.0.1920.1040@0.0.1920.1040" timestamp="1598363070680" />
+    <state width="1877" height="347" key="GridCell.Tab.1.center" timestamp="1598363070680">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1877" height="347" key="GridCell.Tab.1.center/0.0.1920.1040@0.0.1920.1040" timestamp="1598363070680" />
+    <state width="1877" height="347" key="GridCell.Tab.1.left" timestamp="1598363070680">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1877" height="347" key="GridCell.Tab.1.left/0.0.1920.1040@0.0.1920.1040" timestamp="1598363070680" />
+    <state width="1877" height="347" key="GridCell.Tab.1.right" timestamp="1598363070680">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1877" height="347" key="GridCell.Tab.1.right/0.0.1920.1040@0.0.1920.1040" timestamp="1598363070680" />
+    <state x="285" y="94" key="SettingsEditor" timestamp="1599113019120">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="285" y="94" key="SettingsEditor/0.0.1920.1040@0.0.1920.1040" timestamp="1599113019120" />
+    <state x="552" y="239" key="Vcs.Push.Dialog.v2" timestamp="1599113088248">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="552" y="239" key="Vcs.Push.Dialog.v2/0.0.1920.1040@0.0.1920.1040" timestamp="1599113088248" />
+    <state x="1236" y="270" key="refactoring.ChangeSignatureDialog" timestamp="1599464368199">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="1236" y="270" key="refactoring.ChangeSignatureDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1599464368199" />
+    <state x="1096" y="244" key="run.anything.popup" timestamp="1598364651706">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="1096" y="244" key="run.anything.popup/0.0.1920.1040@0.0.1920.1040" timestamp="1598364651706" />
+    <state x="623" y="225" width="672" height="678" key="search.everywhere.popup" timestamp="1598010043598">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="623" y="225" width="672" height="678" key="search.everywhere.popup/0.0.1920.1040@0.0.1920.1040" timestamp="1598010043598" />
   </component>
 </project>

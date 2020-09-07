@@ -41,13 +41,15 @@ public class exercise1 {
 
                 System.out.println("Повторить игру еще раз? 1 - да/ 2 - нет");
                 int answer = scanner.nextInt();
-                if (answer == 1) {
-                    System.out.println("Продолжаем!");
-                    continue;
-                }
-                if (answer == 2) {
-                    System.out.println("До свидания.");
-                    break;
+                while (answer == 1 || answer == 2) {
+                    if (answer == 1) {
+                        System.out.println("Продолжаем!");
+                        continue;
+                    }
+                    if (answer == 2) {
+                        System.out.println("До свидания.");
+                        break;
+                    }
                 }
             }
             if (tries == 0) {

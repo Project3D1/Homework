@@ -1,3 +1,5 @@
+package Homework1;
+
 public class exercise6 {
     public static boolean task6(int a) {
 
