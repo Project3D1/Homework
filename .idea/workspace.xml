@@ -13,14 +13,19 @@
     <select />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="8bd64ccb-96c5-4a6a-bb3f-9e1e26e2e95f" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/main/java/Homework2_1/Cat.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/Homework2_1/Man.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/Homework2_1/Robot.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/Homework2_1/Track.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/Homework2_1/Treadmill.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/Lesson8/btm.java" afterDir="false" />
+    <list default="true" id="8bd64ccb-96c5-4a6a-bb3f-9e1e26e2e95f" name="Default Changelist" comment="Homework2_1">
+      <change afterPath="$PROJECT_DIR$/src/main/java/Homework2_1/Obstacle/Obstacle.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/Homework2_1/Obstacle/Treadmill.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/Homework2_1/Obstacle/Wall.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/Homework2_1/Participants/Cat.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/Homework2_1/Participants/Participants.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/Homework2_1/Participants/Robot.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/Homework2_1/Cat.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/Homework2_1/Man.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/Homework2_1/Participants/Man.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/Homework2_1/Robot.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/Homework2_1/Track.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/Homework2_1/Treadmill.java" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -235,7 +240,14 @@
       <option name="project" value="LOCAL" />
       <updated>1600269985567</updated>
     </task>
-    <option name="localTasksCounter" value="13" />
+    <task id="LOCAL-00013" summary="Homework8">
+      <created>1600871297409</created>
+      <option name="number" value="00013" />
+      <option name="presentableId" value="LOCAL-00013" />
+      <option name="project" value="LOCAL" />
+      <updated>1600871297409</updated>
+    </task>
+    <option name="localTasksCounter" value="14" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -283,18 +295,18 @@
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state x="1059" y="268" key="#com.intellij.ide.util.MemberChooser/0.0.1920.1040@0.0.1920.1040" timestamp="1600269144538" />
-    <state x="743" y="388" width="433" height="269" key="#com.intellij.refactoring.move.moveClassesOrPackages.MoveClassesOrPackagesDialog.classes" timestamp="1599464221466">
+    <state x="743" y="388" width="433" height="269" key="#com.intellij.refactoring.move.moveClassesOrPackages.MoveClassesOrPackagesDialog.classes" timestamp="1600937165801">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state x="743" y="388" width="433" height="269" key="#com.intellij.refactoring.move.moveClassesOrPackages.MoveClassesOrPackagesDialog.classes/0.0.1920.1040@0.0.1920.1040" timestamp="1599464221466" />
+    <state x="743" y="388" width="433" height="269" key="#com.intellij.refactoring.move.moveClassesOrPackages.MoveClassesOrPackagesDialog.classes/0.0.1920.1040@0.0.1920.1040" timestamp="1600937165801" />
     <state x="1229" y="233" key="#com.intellij.refactoring.rename.AutomaticRenamingDialog" timestamp="1600266352307">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state x="1229" y="233" key="#com.intellij.refactoring.rename.AutomaticRenamingDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1600266352307" />
-    <state x="587" y="88" key="CommitChangelistDialog2" timestamp="1600269984862">
+    <state x="587" y="88" key="CommitChangelistDialog2" timestamp="1600871336238">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state x="587" y="88" key="CommitChangelistDialog2/0.0.1920.1040@0.0.1920.1040" timestamp="1600269984862" />
+    <state x="587" y="88" key="CommitChangelistDialog2/0.0.1920.1040@0.0.1920.1040" timestamp="1600871336238" />
     <state x="740" y="261" key="FileChooserDialogImpl" timestamp="1600268783652">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
@@ -331,14 +343,14 @@
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state width="914" height="346" key="GridCell.Tab.1.right/0.0.1920.1040@0.0.1920.1040" timestamp="1600707461828" />
-    <state x="285" y="94" key="SettingsEditor" timestamp="1599732829281">
+    <state x="285" y="94" key="SettingsEditor" timestamp="1600938926616">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state x="285" y="94" key="SettingsEditor/0.0.1920.1040@0.0.1920.1040" timestamp="1599732829281" />
-    <state x="552" y="239" key="Vcs.Push.Dialog.v2" timestamp="1600270013989">
+    <state x="285" y="94" key="SettingsEditor/0.0.1920.1040@0.0.1920.1040" timestamp="1600938926616" />
+    <state x="552" y="239" key="Vcs.Push.Dialog.v2" timestamp="1600871401721">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state x="552" y="239" key="Vcs.Push.Dialog.v2/0.0.1920.1040@0.0.1920.1040" timestamp="1600270013989" />
+    <state x="552" y="239" key="Vcs.Push.Dialog.v2/0.0.1920.1040@0.0.1920.1040" timestamp="1600871401721" />
     <state x="1236" y="270" key="refactoring.ChangeSignatureDialog" timestamp="1600269289973">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
