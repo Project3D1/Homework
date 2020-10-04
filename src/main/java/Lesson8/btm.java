@@ -6,7 +6,8 @@ public class btm {
 
 
     public static void main(String[] args) {
-        String s = 2 + 2 + " = value";
-        System.out.println(s);
+        byte a = 127;
+        a++;
+        System.out.println(a);
     }
 }
