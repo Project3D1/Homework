@@ -35,7 +35,6 @@ public class Chat extends JFrame {
         jta.setLineWrap(true);
         jta.setEditable(false);
 
-        //ACTIONS
         jb.addActionListener(e -> {
             sendMessage();
         });
@@ -53,7 +52,6 @@ public class Chat extends JFrame {
         add(jpN);
         add("South", jpS);
 
-        //MENU
         setJMenuBar(mainMenu);
         mainMenu.add(mFile);
         mainMenu.add(mHelp);
@@ -67,7 +65,6 @@ public class Chat extends JFrame {
         setVisible(true);
     }
 
-    //SEND MESSAGE & WRITE TO FILE
     void sendMessage() {
         String out = jtf.getText();
         jta.append(getTime() + ": " + out + "\n");
@@ -77,7 +74,6 @@ public class Chat extends JFrame {
         jtf.grabFocus();
     }
 
-    //RETURN CURRENT TIME
     public String getTime() {
         return new SimpleDateFormat("HH:mm:ss").format(new Date());
     }
