@@ -13,9 +13,7 @@
     <select />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="8bd64ccb-96c5-4a6a-bb3f-9e1e26e2e95f" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-    </list>
+    <list default="true" id="8bd64ccb-96c5-4a6a-bb3f-9e1e26e2e95f" name="Default Changelist" comment="Homework2_4" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -29,10 +27,28 @@
     </option>
   </component>
   <component name="Git.Settings">
+    <excluded-from-favorite>
+      <branch-storage>
+        <map>
+          <entry type="LOCAL">
+            <value>
+              <list>
+                <branch-info repo="$PROJECT_DIR$" source="master" />
+              </list>
+            </value>
+          </entry>
+        </map>
+      </branch-storage>
+    </excluded-from-favorite>
     <branch-grouping />
+    <option name="PREVIOUS_COMMIT_AUTHORS">
+      <list>
+        <option value="Ivan &lt;project3d@my.com&gt;" />
+      </list>
+    </option>
     <option name="RECENT_BRANCH_BY_REPOSITORY">
       <map>
-        <entry key="$PROJECT_DIR$" value="Homework2_4" />
+        <entry key="$PROJECT_DIR$" value="Homework2_4141" />
       </map>
     </option>
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
@@ -277,7 +293,21 @@
       <option name="project" value="LOCAL" />
       <updated>1602414436326</updated>
     </task>
-    <option name="localTasksCounter" value="19" />
+    <task id="LOCAL-00019" summary="Homework2_5">
+      <created>1602756078205</created>
+      <option name="number" value="00019" />
+      <option name="presentableId" value="LOCAL-00019" />
+      <option name="project" value="LOCAL" />
+      <updated>1602756078205</updated>
+    </task>
+    <task id="LOCAL-00020" summary="Homework2_4">
+      <created>1602756185711</created>
+      <option name="number" value="00020" />
+      <option name="presentableId" value="LOCAL-00020" />
+      <option name="project" value="LOCAL" />
+      <updated>1602756185711</updated>
+    </task>
+    <option name="localTasksCounter" value="21" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -313,9 +343,9 @@
     <MESSAGE value="Homework2_1" />
     <MESSAGE value="Homework2_2" />
     <MESSAGE value="Homework2_3" />
-    <MESSAGE value="Homework2_4" />
     <MESSAGE value="Homework2_5" />
-    <option name="LAST_COMMIT_MESSAGE" value="Homework2_5" />
+    <MESSAGE value="Homework2_4" />
+    <option name="LAST_COMMIT_MESSAGE" value="Homework2_4" />
   </component>
   <component name="WindowStateProjectService">
     <state x="586" y="198" key="#Inspections" timestamp="1598534003006">
@@ -386,10 +416,14 @@
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state x="285" y="94" key="SettingsEditor/0.0.1920.1040@0.0.1920.1040" timestamp="1602755923756" />
-    <state x="552" y="239" key="Vcs.Push.Dialog.v2" timestamp="1602414438724">
+    <state x="552" y="239" key="Vcs.Push.Dialog.v2" timestamp="1602756154429">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state x="552" y="239" key="Vcs.Push.Dialog.v2/0.0.1920.1040@0.0.1920.1040" timestamp="1602414438724" />
+    <state x="552" y="239" key="Vcs.Push.Dialog.v2/0.0.1920.1040@0.0.1920.1040" timestamp="1602756154429" />
+    <state x="739" y="232" key="git4idea.branch.GitSmartOperationDialog" timestamp="1602755941343">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="739" y="232" key="git4idea.branch.GitSmartOperationDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1602755941343" />
     <state x="1236" y="270" key="refactoring.ChangeSignatureDialog" timestamp="1600269289973">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
