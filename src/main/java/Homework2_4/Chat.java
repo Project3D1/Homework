@@ -58,7 +58,7 @@ public class Chat extends JFrame {
         mFile.add(miFileExit);
         mHelp.add(miHelpAbout);
         miFileExit.addActionListener(e -> System.exit(0));
-        miHelpAbout.addActionListener(e -> JOptionPane.showMessageDialog(null,"Super chat version 1.0", "About", JOptionPane.INFORMATION_MESSAGE));
+        miHelpAbout.addActionListener(e -> JOptionPane.showMessageDialog(null,"chat version 1.0", "About", JOptionPane.INFORMATION_MESSAGE));
 
         setDefaultCloseOperation(WindowConstants.EXIT_ON_CLOSE);
         setLocationRelativeTo(null);
@@ -79,3 +79,4 @@ public class Chat extends JFrame {
     }
 
 }
+

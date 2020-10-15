@@ -13,10 +13,11 @@
     <select />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="8bd64ccb-96c5-4a6a-bb3f-9e1e26e2e95f" name="Default Changelist" comment="Homework2_4">
-      <change afterPath="$PROJECT_DIR$/src/main/java/Homework2_6/Client.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/Homework2_6/Server.java" afterDir="false" />
+    <list default="true" id="8bd64ccb-96c5-4a6a-bb3f-9e1e26e2e95f" name="Default Changelist" comment="Homework2_6">
+      <change beforePath="$PROJECT_DIR$/.idea/compiler.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/compiler.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/Homework2_4/Chat.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/Homework2_4/Chat.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -76,23 +77,23 @@
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
-    <property name="project.structure.last.edited" value="Project" />
+    <property name="project.structure.last.edited" value="Modules" />
     <property name="project.structure.proportion" value="0.0" />
     <property name="project.structure.side.proportion" value="0.0" />
-    <property name="settings.editor.selected.configurable" value="vcs.Git" />
+    <property name="settings.editor.selected.configurable" value="preferences.sourceCode.Java" />
   </component>
   <component name="RecentsManager">
     <key name="CreateClassDialog.RecentsKey">
       <recent name="Homework2_4" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.Server">
-    <configuration name="Array" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Homework2_3.Array" />
-      <module name="Homework" />
+  <component name="RunManager" selected="Application.ArrayException">
+    <configuration name="ArrayException" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Homework2_2.ArrayException" />
+      <module name="Java" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="Homework2_3.*" />
+          <option name="PATTERN" value="Homework2_2.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -114,8 +115,10 @@
       </method>
     </configuration>
     <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="ALTERNATIVE_JRE_PATH" value="15" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="true" />
       <option name="MAIN_CLASS_NAME" value="Homework2_4.Main" />
-      <module name="Homework" />
+      <module name="Java" />
       <extension name="coverage">
         <pattern>
           <option name="PATTERN" value="Homework2_4.*" />
@@ -128,7 +131,7 @@
     </configuration>
     <configuration name="Multithreading" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="Homework2_5.Multithreading" />
-      <module name="Homework" />
+      <module name="Java" />
       <extension name="coverage">
         <pattern>
           <option name="PATTERN" value="Homework2_5.*" />
@@ -154,11 +157,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.Server" />
-        <item itemvalue="Application.Client" />
+        <item itemvalue="Application.ArrayException" />
         <item itemvalue="Application.Multithreading" />
         <item itemvalue="Application.Main" />
-        <item itemvalue="Application.Array" />
+        <item itemvalue="Application.Server" />
+        <item itemvalue="Application.Client" />
       </list>
     </recent_temporary>
   </component>
@@ -318,7 +321,14 @@
       <option name="project" value="LOCAL" />
       <updated>1602756310361</updated>
     </task>
-    <option name="localTasksCounter" value="22" />
+    <task id="LOCAL-00022" summary="Homework2_6">
+      <created>1602758401247</created>
+      <option name="number" value="00022" />
+      <option name="presentableId" value="LOCAL-00022" />
+      <option name="project" value="LOCAL" />
+      <updated>1602758401247</updated>
+    </task>
+    <option name="localTasksCounter" value="23" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -356,13 +366,18 @@
     <MESSAGE value="Homework2_3" />
     <MESSAGE value="Homework2_5" />
     <MESSAGE value="Homework2_4" />
-    <option name="LAST_COMMIT_MESSAGE" value="Homework2_4" />
+    <MESSAGE value="Homework2_6" />
+    <option name="LAST_COMMIT_MESSAGE" value="Homework2_6" />
   </component>
   <component name="WindowStateProjectService">
     <state x="586" y="198" key="#Inspections" timestamp="1598534003006">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state x="586" y="198" key="#Inspections/0.0.1920.1040@0.0.1920.1040" timestamp="1598534003006" />
+    <state x="440" y="94" key="#Project_Structure" timestamp="1602758616485">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="440" y="94" key="#Project_Structure/0.0.1920.1040@0.0.1920.1040" timestamp="1602758616485" />
     <state x="1216" y="325" key="#com.intellij.fileTypes.FileTypeChooser" timestamp="1599732429892">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
@@ -387,22 +402,22 @@
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state x="740" y="261" key="FileChooserDialogImpl/0.0.1920.1040@0.0.1920.1040" timestamp="1600268783652" />
-    <state width="1877" height="86" key="GridCell.Tab.0.bottom" timestamp="1602414494479">
+    <state width="1877" height="282" key="GridCell.Tab.0.bottom" timestamp="1602758556584">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="1877" height="86" key="GridCell.Tab.0.bottom/0.0.1920.1040@0.0.1920.1040" timestamp="1602414494479" />
-    <state width="1877" height="86" key="GridCell.Tab.0.center" timestamp="1602414494478">
+    <state width="1877" height="282" key="GridCell.Tab.0.bottom/0.0.1920.1040@0.0.1920.1040" timestamp="1602758556584" />
+    <state width="1877" height="282" key="GridCell.Tab.0.center" timestamp="1602758556584">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="1877" height="86" key="GridCell.Tab.0.center/0.0.1920.1040@0.0.1920.1040" timestamp="1602414494478" />
-    <state width="1877" height="86" key="GridCell.Tab.0.left" timestamp="1602414494478">
+    <state width="1877" height="282" key="GridCell.Tab.0.center/0.0.1920.1040@0.0.1920.1040" timestamp="1602758556584" />
+    <state width="1877" height="282" key="GridCell.Tab.0.left" timestamp="1602758556584">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="1877" height="86" key="GridCell.Tab.0.left/0.0.1920.1040@0.0.1920.1040" timestamp="1602414494478" />
-    <state width="1877" height="86" key="GridCell.Tab.0.right" timestamp="1602414494479">
+    <state width="1877" height="282" key="GridCell.Tab.0.left/0.0.1920.1040@0.0.1920.1040" timestamp="1602758556584" />
+    <state width="1877" height="282" key="GridCell.Tab.0.right" timestamp="1602758556584">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="1877" height="86" key="GridCell.Tab.0.right/0.0.1920.1040@0.0.1920.1040" timestamp="1602414494479" />
+    <state width="1877" height="282" key="GridCell.Tab.0.right/0.0.1920.1040@0.0.1920.1040" timestamp="1602758556584" />
     <state width="914" height="346" key="GridCell.Tab.1.bottom" timestamp="1601380135876">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
@@ -423,14 +438,14 @@
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state x="490" y="174" key="Maven.ArtifactSearchDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1602755019181" />
-    <state x="285" y="94" key="SettingsEditor" timestamp="1602755923756">
+    <state x="285" y="94" key="SettingsEditor" timestamp="1602758587295">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state x="285" y="94" key="SettingsEditor/0.0.1920.1040@0.0.1920.1040" timestamp="1602755923756" />
-    <state x="552" y="239" key="Vcs.Push.Dialog.v2" timestamp="1602756331506">
+    <state x="285" y="94" key="SettingsEditor/0.0.1920.1040@0.0.1920.1040" timestamp="1602758587295" />
+    <state x="552" y="239" key="Vcs.Push.Dialog.v2" timestamp="1602758407203">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state x="552" y="239" key="Vcs.Push.Dialog.v2/0.0.1920.1040@0.0.1920.1040" timestamp="1602756331506" />
+    <state x="552" y="239" key="Vcs.Push.Dialog.v2/0.0.1920.1040@0.0.1920.1040" timestamp="1602758407203" />
     <state x="739" y="232" key="git4idea.branch.GitSmartOperationDialog" timestamp="1602755941343">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
