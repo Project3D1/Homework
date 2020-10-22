@@ -13,11 +13,30 @@
     <select />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="8bd64ccb-96c5-4a6a-bb3f-9e1e26e2e95f" name="Default Changelist" comment="Homework2_6">
-      <change beforePath="$PROJECT_DIR$/.idea/compiler.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/compiler.xml" afterDir="false" />
+    <list default="true" id="8bd64ccb-96c5-4a6a-bb3f-9e1e26e2e95f" name="Default Changelist" comment="Homework3_1">
+      <change afterPath="$PROJECT_DIR$/src/main/java/Homework3_1/No3/Apple.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/Homework3_1/No3/Box.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/Homework3_1/No3/Fruit.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/Homework3_1/No3/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/Homework3_1/No3/Orange.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/Homework2_4/Chat.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/Homework2_4/Chat.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/Homework2_7/ChatServer.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/Homework2_7/ClientHandler.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/Homework2_7/SimpleClient.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/Homework2_7/SimpleServer.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/Homework2_8/Client/NetworkChatClient.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/Homework2_8/Client/controllers/AuthDialogController.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/Homework2_8/Client/controllers/ViewController.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/Homework2_8/Client/models/Network.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/Homework2_8/Server/ClientHandler.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/Homework2_8/Server/MyServer.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/Homework2_8/Server/ServerApp.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/Homework2_8/Server/TCPConnection/TCPConnection.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/Homework2_8/Server/TCPConnection/TCPConnectionListener.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/Homework2_8/Server/TimeoutAuthConnection.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/Homework2_8/Server/User.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/Homework2_8/Server/auth/AuthService.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/Homework2_8/Server/auth/BaseAuthService.java" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -27,6 +46,7 @@
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
       <list>
+        <option value="Interface" />
         <option value="Class" />
       </list>
     </option>
@@ -51,9 +71,15 @@
         <option value="Ivan &lt;project3d@my.com&gt;" />
       </list>
     </option>
+    <option name="PUSH_TAGS">
+      <GitPushTagMode>
+        <option name="argument" value="--follow-tags" />
+        <option name="title" value="Current Branch" />
+      </GitPushTagMode>
+    </option>
     <option name="RECENT_BRANCH_BY_REPOSITORY">
       <map>
-        <entry key="$PROJECT_DIR$" value="Homework2_4" />
+        <entry key="$PROJECT_DIR$" value="Homework2_8" />
       </map>
     </option>
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
@@ -80,20 +106,20 @@
     <property name="project.structure.last.edited" value="Modules" />
     <property name="project.structure.proportion" value="0.0" />
     <property name="project.structure.side.proportion" value="0.0" />
-    <property name="settings.editor.selected.configurable" value="preferences.sourceCode.Java" />
+    <property name="settings.editor.selected.configurable" value="project.propCompiler" />
   </component>
   <component name="RecentsManager">
     <key name="CreateClassDialog.RecentsKey">
       <recent name="Homework2_4" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.ArrayException">
-    <configuration name="ArrayException" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Homework2_2.ArrayException" />
+  <component name="RunManager" selected="Application.Main (1)">
+    <configuration name="ChatServer" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Homework2_7.ChatServer" />
       <module name="Java" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="Homework2_2.*" />
+          <option name="PATTERN" value="Homework2_7.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -101,12 +127,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Client" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Homework2_6.Client" />
+    <configuration name="Main (1)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Homework3_1.No3.Main" />
       <module name="Java" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="Homework2_6.*" />
+          <option name="PATTERN" value="Homework3_1.No3.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -115,13 +141,11 @@
       </method>
     </configuration>
     <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="ALTERNATIVE_JRE_PATH" value="15" />
-      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="true" />
-      <option name="MAIN_CLASS_NAME" value="Homework2_4.Main" />
+      <option name="MAIN_CLASS_NAME" value="Homework3_1.Main" />
       <module name="Java" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="Homework2_4.*" />
+          <option name="PATTERN" value="Homework3_1.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -129,12 +153,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Multithreading" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Homework2_5.Multithreading" />
+    <configuration name="NetworkChatClient (1)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Homework2_8.Client.NetworkChatClient" />
       <module name="Java" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="Homework2_5.*" />
+          <option name="PATTERN" value="Homework2_8.Client.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -142,12 +166,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Server" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Homework2_6.Server" />
+    <configuration name="ServerApp" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="ru.geekbrains.java2.network.server.ServerApp" />
       <module name="Java" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="Homework2_6.*" />
+          <option name="PATTERN" value="ru.geekbrains.java2.network.server.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -157,11 +181,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.ArrayException" />
-        <item itemvalue="Application.Multithreading" />
+        <item itemvalue="Application.Main (1)" />
         <item itemvalue="Application.Main" />
-        <item itemvalue="Application.Server" />
-        <item itemvalue="Application.Client" />
+        <item itemvalue="Application.ChatServer" />
+        <item itemvalue="Application.NetworkChatClient (1)" />
+        <item itemvalue="Application.ServerApp" />
       </list>
     </recent_temporary>
   </component>
@@ -328,7 +352,28 @@
       <option name="project" value="LOCAL" />
       <updated>1602758401247</updated>
     </task>
-    <option name="localTasksCounter" value="23" />
+    <task id="LOCAL-00023" summary="Homework2_4">
+      <created>1602758690510</created>
+      <option name="number" value="00023" />
+      <option name="presentableId" value="LOCAL-00023" />
+      <option name="project" value="LOCAL" />
+      <updated>1602758690510</updated>
+    </task>
+    <task id="LOCAL-00024" summary="Homework2_8">
+      <created>1603041840532</created>
+      <option name="number" value="00024" />
+      <option name="presentableId" value="LOCAL-00024" />
+      <option name="project" value="LOCAL" />
+      <updated>1603041840532</updated>
+    </task>
+    <task id="LOCAL-00025" summary="Homework3_1">
+      <created>1603370214565</created>
+      <option name="number" value="00025" />
+      <option name="presentableId" value="LOCAL-00025" />
+      <option name="project" value="LOCAL" />
+      <updated>1603370214565</updated>
+    </task>
+    <option name="localTasksCounter" value="26" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -365,9 +410,11 @@
     <MESSAGE value="Homework2_2" />
     <MESSAGE value="Homework2_3" />
     <MESSAGE value="Homework2_5" />
-    <MESSAGE value="Homework2_4" />
     <MESSAGE value="Homework2_6" />
-    <option name="LAST_COMMIT_MESSAGE" value="Homework2_6" />
+    <MESSAGE value="Homework2_4" />
+    <MESSAGE value="Homework2_8" />
+    <MESSAGE value="Homework3_1" />
+    <option name="LAST_COMMIT_MESSAGE" value="Homework3_1" />
   </component>
   <component name="WindowStateProjectService">
     <state x="586" y="198" key="#Inspections" timestamp="1598534003006">
@@ -394,6 +441,10 @@
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state x="1229" y="233" key="#com.intellij.refactoring.rename.AutomaticRenamingDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1600266352307" />
+    <state x="690" y="266" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog" timestamp="1603035690105">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="690" y="266" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1603035690105" />
     <state x="587" y="88" key="CommitChangelistDialog2" timestamp="1602414435165">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
@@ -402,22 +453,22 @@
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state x="740" y="261" key="FileChooserDialogImpl/0.0.1920.1040@0.0.1920.1040" timestamp="1600268783652" />
-    <state width="1877" height="282" key="GridCell.Tab.0.bottom" timestamp="1602758556584">
+    <state width="1877" height="282" key="GridCell.Tab.0.bottom" timestamp="1603372329664">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="1877" height="282" key="GridCell.Tab.0.bottom/0.0.1920.1040@0.0.1920.1040" timestamp="1602758556584" />
-    <state width="1877" height="282" key="GridCell.Tab.0.center" timestamp="1602758556584">
+    <state width="1877" height="282" key="GridCell.Tab.0.bottom/0.0.1920.1040@0.0.1920.1040" timestamp="1603372329664" />
+    <state width="1877" height="282" key="GridCell.Tab.0.center" timestamp="1603372329664">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="1877" height="282" key="GridCell.Tab.0.center/0.0.1920.1040@0.0.1920.1040" timestamp="1602758556584" />
-    <state width="1877" height="282" key="GridCell.Tab.0.left" timestamp="1602758556584">
+    <state width="1877" height="282" key="GridCell.Tab.0.center/0.0.1920.1040@0.0.1920.1040" timestamp="1603372329664" />
+    <state width="1877" height="282" key="GridCell.Tab.0.left" timestamp="1603372329664">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="1877" height="282" key="GridCell.Tab.0.left/0.0.1920.1040@0.0.1920.1040" timestamp="1602758556584" />
-    <state width="1877" height="282" key="GridCell.Tab.0.right" timestamp="1602758556584">
+    <state width="1877" height="282" key="GridCell.Tab.0.left/0.0.1920.1040@0.0.1920.1040" timestamp="1603372329664" />
+    <state width="1877" height="282" key="GridCell.Tab.0.right" timestamp="1603372329664">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="1877" height="282" key="GridCell.Tab.0.right/0.0.1920.1040@0.0.1920.1040" timestamp="1602758556584" />
+    <state width="1877" height="282" key="GridCell.Tab.0.right/0.0.1920.1040@0.0.1920.1040" timestamp="1603372329664" />
     <state width="914" height="346" key="GridCell.Tab.1.bottom" timestamp="1601380135876">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
@@ -434,18 +485,18 @@
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state width="914" height="346" key="GridCell.Tab.1.right/0.0.1920.1040@0.0.1920.1040" timestamp="1601380135876" />
-    <state x="490" y="174" key="Maven.ArtifactSearchDialog" timestamp="1602755019181">
+    <state x="490" y="174" key="Maven.ArtifactSearchDialog" timestamp="1603039656535">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state x="490" y="174" key="Maven.ArtifactSearchDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1602755019181" />
-    <state x="285" y="94" key="SettingsEditor" timestamp="1602758587295">
+    <state x="490" y="174" key="Maven.ArtifactSearchDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1603039656535" />
+    <state x="285" y="94" key="SettingsEditor" timestamp="1603370481803">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state x="285" y="94" key="SettingsEditor/0.0.1920.1040@0.0.1920.1040" timestamp="1602758587295" />
-    <state x="552" y="239" key="Vcs.Push.Dialog.v2" timestamp="1602758407203">
+    <state x="285" y="94" key="SettingsEditor/0.0.1920.1040@0.0.1920.1040" timestamp="1603370481803" />
+    <state x="552" y="239" key="Vcs.Push.Dialog.v2" timestamp="1603370239945">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state x="552" y="239" key="Vcs.Push.Dialog.v2/0.0.1920.1040@0.0.1920.1040" timestamp="1602758407203" />
+    <state x="552" y="239" key="Vcs.Push.Dialog.v2/0.0.1920.1040@0.0.1920.1040" timestamp="1603370239945" />
     <state x="739" y="232" key="git4idea.branch.GitSmartOperationDialog" timestamp="1602755941343">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
